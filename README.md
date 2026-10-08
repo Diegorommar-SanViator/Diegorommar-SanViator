@@ -43,7 +43,4 @@ Otra sección
 ---
 Tercera sección
 
-
-
-
-
+<!-- Esto es un comentario -->
