@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Diego Romero Martinez
+## Docente de Bases de datos
+### Me encantan las bases de datos sobretodo el profesor 
+
+Soy **estudiante** del *Colegio* ***San Viator***
+
+Estamos aprendiendo:
+1. Programación
+2. Bases de datos
+3. Entornos de desarrollo
+
+También estamos estudiando:
+- Markdown
+- Diagramas Entidad Relación
+- Bucles
+
+[Web del colegio](https://www.sanviatorvalladolid.com)
+
+
+
+
+
+
+
+
